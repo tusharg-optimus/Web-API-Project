@@ -1,0 +1,12 @@
+C:\Users\optimus12\source\repos\Expense Approval\ExpenseApproval.Utility\bin\Debug\net5.0\ExpenseApproval.Utility.deps.json
+C:\Users\optimus12\source\repos\Expense Approval\ExpenseApproval.Utility\bin\Debug\net5.0\ExpenseApproval.Utility.dll
+C:\Users\optimus12\source\repos\Expense Approval\ExpenseApproval.Utility\bin\Debug\net5.0\ref\ExpenseApproval.Utility.dll
+C:\Users\optimus12\source\repos\Expense Approval\ExpenseApproval.Utility\bin\Debug\net5.0\ExpenseApproval.Utility.pdb
+C:\Users\optimus12\source\repos\Expense Approval\ExpenseApproval.Utility\obj\Debug\net5.0\ExpenseApproval.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\optimus12\source\repos\Expense Approval\ExpenseApproval.Utility\obj\Debug\net5.0\ExpenseApproval.Utility.AssemblyInfoInputs.cache
+C:\Users\optimus12\source\repos\Expense Approval\ExpenseApproval.Utility\obj\Debug\net5.0\ExpenseApproval.Utility.AssemblyInfo.cs
+C:\Users\optimus12\source\repos\Expense Approval\ExpenseApproval.Utility\obj\Debug\net5.0\ExpenseApproval.Utility.csproj.CoreCompileInputs.cache
+C:\Users\optimus12\source\repos\Expense Approval\ExpenseApproval.Utility\obj\Debug\net5.0\ExpenseApproval.Utility.dll
+C:\Users\optimus12\source\repos\Expense Approval\ExpenseApproval.Utility\obj\Debug\net5.0\ref\ExpenseApproval.Utility.dll
+C:\Users\optimus12\source\repos\Expense Approval\ExpenseApproval.Utility\obj\Debug\net5.0\ExpenseApproval.Utility.pdb
+C:\Users\optimus12\source\repos\Expense Approval\ExpenseApproval.Utility\obj\Debug\net5.0\ExpenseApproval.Utility.csproj.AssemblyReference.cache

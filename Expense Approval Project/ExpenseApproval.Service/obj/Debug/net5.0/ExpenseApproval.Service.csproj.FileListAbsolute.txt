@@ -1,0 +1,17 @@
+C:\Users\optimus12\source\repos\Expense Approval\ExpenseApproval.Service\bin\Debug\net5.0\ExpenseApproval.Service.deps.json
+C:\Users\optimus12\source\repos\Expense Approval\ExpenseApproval.Service\bin\Debug\net5.0\ExpenseApproval.Service.dll
+C:\Users\optimus12\source\repos\Expense Approval\ExpenseApproval.Service\bin\Debug\net5.0\ref\ExpenseApproval.Service.dll
+C:\Users\optimus12\source\repos\Expense Approval\ExpenseApproval.Service\bin\Debug\net5.0\ExpenseApproval.Service.pdb
+C:\Users\optimus12\source\repos\Expense Approval\ExpenseApproval.Service\bin\Debug\net5.0\ExpenseApproval.DataAccess.dll
+C:\Users\optimus12\source\repos\Expense Approval\ExpenseApproval.Service\bin\Debug\net5.0\ExpenseApproval.Utility.dll
+C:\Users\optimus12\source\repos\Expense Approval\ExpenseApproval.Service\bin\Debug\net5.0\ExpenseApproval.DataAccess.pdb
+C:\Users\optimus12\source\repos\Expense Approval\ExpenseApproval.Service\bin\Debug\net5.0\ExpenseApproval.Utility.pdb
+C:\Users\optimus12\source\repos\Expense Approval\ExpenseApproval.Service\obj\Debug\net5.0\ExpenseApproval.Service.csproj.AssemblyReference.cache
+C:\Users\optimus12\source\repos\Expense Approval\ExpenseApproval.Service\obj\Debug\net5.0\ExpenseApproval.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\optimus12\source\repos\Expense Approval\ExpenseApproval.Service\obj\Debug\net5.0\ExpenseApproval.Service.AssemblyInfoInputs.cache
+C:\Users\optimus12\source\repos\Expense Approval\ExpenseApproval.Service\obj\Debug\net5.0\ExpenseApproval.Service.AssemblyInfo.cs
+C:\Users\optimus12\source\repos\Expense Approval\ExpenseApproval.Service\obj\Debug\net5.0\ExpenseApproval.Service.csproj.CoreCompileInputs.cache
+C:\Users\optimus12\source\repos\Expense Approval\ExpenseApproval.Service\obj\Debug\net5.0\ExpenseApproval.Service.csproj.CopyComplete
+C:\Users\optimus12\source\repos\Expense Approval\ExpenseApproval.Service\obj\Debug\net5.0\ExpenseApproval.Service.dll
+C:\Users\optimus12\source\repos\Expense Approval\ExpenseApproval.Service\obj\Debug\net5.0\ref\ExpenseApproval.Service.dll
+C:\Users\optimus12\source\repos\Expense Approval\ExpenseApproval.Service\obj\Debug\net5.0\ExpenseApproval.Service.pdb
